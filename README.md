@@ -1,0 +1,1 @@
+* Auto test for a part of rozetka.com.ua functionality
